@@ -1,4 +1,4 @@
-# ProPay Test
+# Propay Test
 
 Standard Laravel Application install.
 
